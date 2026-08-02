@@ -42,6 +42,3 @@ This project demonstrates how clustering techniques can be used to discover patt
 * Clone the repository
 * Open the Jupyter Notebook
 * Run all cells step by step to view the results and visualizations
-
-## Explanation Video
-A detailed explanation video is provided below. Please refer to it to understand the project workflow and results
